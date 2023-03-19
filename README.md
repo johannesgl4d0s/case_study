@@ -1,4 +1,4 @@
-# Case Study: Non-intrusive Load Monitoring
+# Case Study: NILM
 
 ## Installation
 
@@ -9,4 +9,5 @@ conda create --name energy_env python=3.8
 conda activate energy_env
 pip install -r requirements
 ```
+
 
